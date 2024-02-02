@@ -3,8 +3,7 @@
 
 This example demonstrates how to use Django along with Kafka, Debezium, and Faust to send emails triggered by changes in the database through Change Data Capture. 
 
-###  Prerequisites
-
+### Prerequisites
 - [Django](https://www.djangoproject.com/)
 - [Kafka](https://kafka.apache.org/)
 - [Debezium](https://debezium.io/)
