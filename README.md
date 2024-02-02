@@ -5,8 +5,6 @@ This example demonstrates how to use Django along with Kafka, Debezium, and Faus
 
 
 ### Prerequisites
-
-
 - [Django](https://www.djangoproject.com/)
 - [Kafka](https://kafka.apache.org/)
 - [Debezium](https://debezium.io/)
@@ -15,7 +13,6 @@ This example demonstrates how to use Django along with Kafka, Debezium, and Faus
  
     
 ### Requirements
-
 You need to install [Docker](https://www.docker.com/)
  and [Docker-Compose](https://docs.docker.com/compose/).
 
