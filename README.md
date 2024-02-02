@@ -10,7 +10,7 @@ This example demonstrates how to use Django along with Kafka, Debezium, and Faus
 - [Debezium](https://debezium.io/)
 - [Faust](https://faust.readthedocs.io/)
   
- Faust can be a substitute for [Celery](https://faust.readthedocs.io/](https://docs.celeryq.dev/en/stable/) in handling asynchronous tasks.
+ Faust can be a substitute for [Celery](https://docs.celeryq.dev/en/stable/)) in handling asynchronous tasks.
     
 ## Requirements
 You need to install [Docker](https://www.docker.com/)
